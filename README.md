@@ -9,7 +9,7 @@ and maintainable code—because great experiences start with great engineering!
 * 📱 Currently delving deeper on the fundamentals of compose [Compose Runtime](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/runtime/design/how-compose-works.md) 
 
 
-## iOS Tech Stack
+## Android Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FA7343?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
 ![Dagger Hilt](https://img.shields.io/badge/-hilt-2396F3?style=flat-square&logo=hilt&logoColor=white)
