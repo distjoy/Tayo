@@ -10,10 +10,10 @@ and maintainable code—because great experiences start with great engineering!
 
 
 ## iOS Tech Stack
-![Kotlin](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-SwiftUI-blue?style=flat-square&logo=java&logoColor=white)
-![Dagger Hilt](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=daggerhily&logoColor=white)
-![Coroutines](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=coroutines&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-FA7343?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/-hilt-2396F3?style=flat-square&logo=hilt&logoColor=white)
+![Coroutines](https://img.shields.io/badge/-couroutines-438EFF?style=flat-square&logo=coroutines&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUNIT-147EFB?style=flat-square&logo=junit&logoColor=white)
 ![espresso](https://img.shields.io/badge/-espresso-147EFB?style=flat-square&logo=espresso&logoColor=white)
 ![MVVM](https://img.shields.io/badge/-MVVM-FF69B4?style=flat-square)
